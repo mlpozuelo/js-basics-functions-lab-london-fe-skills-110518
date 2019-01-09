@@ -26,7 +26,7 @@ function calculatesFarePrice (travelledfeet) {
   else if (travelledfeet >=2000 && travelledfeet<=2500){ fareprice = 25; 
   return fareprice}
 
-  else if (travelled >=2500) 
+  else if (travelledfeet >=2500) 
   return message;
   
   
