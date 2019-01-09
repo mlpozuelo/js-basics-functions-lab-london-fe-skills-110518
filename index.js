@@ -3,7 +3,7 @@
 function distanceFromHqInBlocks (startblock) {
   const headquarters = 42
   const distancetravelled = startblock - headquarters
-  return math.abs(distancetravelled);
+  return Math.abs(distancetravelled)
   
 }
 
