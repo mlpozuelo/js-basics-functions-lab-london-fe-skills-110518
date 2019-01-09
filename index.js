@@ -18,5 +18,7 @@ function distanceTravelledInFeet (startblock,endblock) {
   return travelledfeet
 }
 
-
+function calculatesFarePrice (travelledfeet) {
+  const fareprice = travelledfeet
+}
 
