@@ -20,7 +20,8 @@ function distanceTravelledInFeet (startblock,endblock) {
 
 function calculatesFarePrice (travelledfeet) {
   const fareprice
-  if (travelledfeet >=400 && <= 2000) { fareprice =   (travelledfeet - 400)*0.02;}
+  if (travelledfeet >=400 && <= 2000) { fareprice =   (travelledfeet - 400)*0.02;} else if
+  
   
   
   if 2000 < travelledfeet < 2500 then fareprice = 2500
