@@ -1,7 +1,5 @@
 // Code your solution in this file!
 
-distanceFromHqInBlocks() {
-  let = 
-}
+distanceFromHqInBlocks() 
 
-distanceTravelledInFeet()
+distanceFromHqInFeet()
