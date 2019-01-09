@@ -30,5 +30,4 @@ function calculatesFarePrice (startblock, endblock) {
   else if (travelledfeet >=2500) 
   return message;
   
-  
 }
