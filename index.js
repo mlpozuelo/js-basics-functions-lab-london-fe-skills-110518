@@ -1,5 +1,9 @@
 // Code your solution in this file!
 
-distanceFromHqInBlocks() 
+function distanceFromHqInBlocks() {
+  
+}
 
-distanceFromHqInFeet()
+function distanceFromHqInFeet() {
+  distanceFromHqInBlocks ();
+}
