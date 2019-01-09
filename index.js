@@ -18,7 +18,8 @@ function distanceTravelledInFeet (startblock,endblock) {
   return travelledfeet
 }
 
-function calculatesFarePrice (travelledfeet) {
+function calculatesFarePrice (startblock, endblock) {
+  let travelledfeet = distanceTravelledInFeet(startblock, endblock);
   let fareprice
   const message = 'cannot travel that far'
   if (travelledfeet >=400 && travelledfeet<= 2000) {
