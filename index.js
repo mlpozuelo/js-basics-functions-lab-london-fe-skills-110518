@@ -3,6 +3,7 @@
 function distanceFromHqInBlocks (startblock) {
   let headquarters = 42
   
+  
 }
 
 function distanceFromHqInFeet() {
