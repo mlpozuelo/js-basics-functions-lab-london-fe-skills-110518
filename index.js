@@ -7,6 +7,6 @@ function distanceFromHqInBlocks (startblock) {
   
 }
 
-function distanceFromHqInFeet() {
+function distanceFromHqInFeet(startblock) {
   distanceFromHqInBlocks (startblock)* 264;
 }
