@@ -13,5 +13,10 @@ function distanceFromHqInFeet(startblock) {
 }
 
 function distanceTravelledInFeet (startblock,endblock) {
-  const totalblocks = Math.abs(startblock - endblock)
+  const travelledblocks = Math.abs(startblock - endblock)
+  const travelledfeet = travelledblocks * 264;
+  return travelledfeet
 }
+
+
+
