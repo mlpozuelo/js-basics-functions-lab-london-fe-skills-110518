@@ -30,5 +30,4 @@ function calculatesFarePrice (travelledfeet) {
   return message;
   
   
-
 }
