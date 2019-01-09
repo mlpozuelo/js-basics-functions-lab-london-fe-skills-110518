@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-function distanceFromHqInBlocks (distanceinblocks) {
+function distanceFromHqInBlocks () {
   let headquarters = 42
   
 }
